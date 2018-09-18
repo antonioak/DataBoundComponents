@@ -1,0 +1,37 @@
+<aura:component controller='DataBoundCMPController' implements="flexipage:availableForRecordHome, force:hasRecordId, force:hasSObjectName" >
+
+    <aura:attribute name="dbFieldName" type="String" default="Name" />
+    <aura:attribute name="dbFieldNames" type="String[]" default="['Id', 'Name']" />
+    <aura:attribute name="dbFieldValue" type="String" />
+
+    <aura:attribute name="record" type="Object" />
+    <aura:attribute name="simpleRecord" type="Object" />
+    <aura:attribute name="recordError" type="String" />
+
+	<aura:handler name="init" value="{!this}" action="{!c.doInit}" />   
+
+    <force:recordData aura:id="recordLoader"
+        recordId="{!v.recordId}"
+        fields="{!v.dbFieldNames}"
+        mode="VIEW"
+        targetError="{!v.recordError}"
+        targetRecord="{!v.record}"
+        targetFields="{!v.simpleRecord}"
+    />
+
+    <lightning:input label="{!v.dbFieldName}" value="{!v.dbFieldValue}" />
+
+<!--
+
+    <lightning:recordForm aura:id="recordLoader1" 
+        recordId="{!v.recordId}"
+        objectApiName="{!v.sObjectName}"
+        columns="1"
+        fields="{!v.dbFieldName}"
+        mode="readonly">
+
+        <lightning:inputField fieldName="{!v.dbFieldName}" />
+    </lightning:recordForm>
+-->
+
+</aura:component>	

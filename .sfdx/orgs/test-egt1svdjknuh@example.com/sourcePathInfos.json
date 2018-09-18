@@ -1,0 +1,291 @@
+[
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537136215012,
+            "changeTime": 1537136215012,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537136222717,
+            "changeTime": 1537136222717,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537225277829,
+            "changeTime": 1537225277829,
+            "isWorkspace": false,
+            "contentHash": "59ca7a9ea60e7160850d5becb32c2900fcbe7bc1"
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537137928705,
+            "changeTime": 1537137928736,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "size": 883,
+            "modifiedTime": 1537140652314,
+            "changeTime": 1537140652314,
+            "contentHash": "7b88769781a115335a131533551f9563d10283f5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537136298049,
+            "changeTime": 1537136298049,
+            "contentHash": "b4a7dd88b8050f960ff1ad802488af378d63ddf4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537136298059,
+            "changeTime": 1537136298059,
+            "contentHash": "92ba24841b2a72ddd462966c841c81fd3847a69f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.auradoc",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1537136298059,
+            "changeTime": 1537136298059,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1248,
+            "modifiedTime": 1537234938232,
+            "changeTime": 1537234938232,
+            "isWorkspace": false,
+            "contentHash": "a0b2e0c14147e0acf9754c063c5b32907c3e5e1c"
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.cmp-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1537200019405,
+            "changeTime": 1537200019405,
+            "contentHash": "53ca86b3909566f13ae224e57feec3e02bddb28f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.css",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1537136298055,
+            "changeTime": 1537136298055,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.design",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.design",
+            "isDirectory": false,
+            "size": 157,
+            "modifiedTime": 1537137712334,
+            "changeTime": 1537137712334,
+            "contentHash": "5ddc19f324468fb1172fa25e60a72d16ec61c4db",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.svg",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBox.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1537136298057,
+            "changeTime": 1537136298057,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBoxController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBoxController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1922,
+            "modifiedTime": 1537234938232,
+            "changeTime": 1537234938232,
+            "isWorkspace": false,
+            "contentHash": "6255b6f4df29bd8769242eb9ff69799cda021b87"
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBoxHelper.js",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBoxHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1537136298054,
+            "changeTime": 1537136298054,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBoxRenderer.js",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\aura\\testDBTextBox\\testDBTextBoxRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1537136298056,
+            "changeTime": 1537136298056,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents",
+        {
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537141874433,
+            "changeTime": 1537141874433,
+            "contentHash": "aeef2c12ce6e7b39fb504f4bb604595bd05a7f33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537225277829,
+            "changeTime": 1537225277829,
+            "contentHash": "b98f7ab84ab6aa2dab1e526dd8bacbfe38eb4943"
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\classes\\DataBoundCMPController.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\classes\\DataBoundCMPController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 480,
+            "modifiedTime": 1537235276843,
+            "changeTime": 1537235276843,
+            "contentHash": "fc6ad4763708bd86c257425ca1c06c023ce0429b"
+        }
+    ],
+    [
+        "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\classes\\DataBoundCMPController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\anton\\Source Code\\DataBoundComponents\\force-app\\main\\default\\classes\\DataBoundCMPController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1537225251952,
+            "changeTime": 1537225277829,
+            "contentHash": "4efd7e37d747bbaa6dc1b20142daa048e000e04c"
+        }
+    ]
+]
